@@ -19,7 +19,7 @@ charset-normalizer==3.4.0
 docutils==0.20.1
 idna==3.10
 imagesize==1.4.1
-Jinja2==3.1.4
+Jinja2==3.1.5
 MarkupSafe==3.0.1
 packaging==24.1
 Pygments==2.18.0
